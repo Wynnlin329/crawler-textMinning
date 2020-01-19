@@ -1,0 +1,13 @@
+﻿Python
+R語言
+MySQL
+MongoDB
+NoSQL
+SQL
+AWS
+gcp
+Azure
+Data mining
+AI
+Deep learning
+cloud service
